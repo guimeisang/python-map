@@ -8,3 +8,4 @@
 
 
 ### 资料
+主要是参考http://www.runoob.com/python/python-exceptions.html；
