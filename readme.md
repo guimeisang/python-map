@@ -10,8 +10,12 @@
 
 
 ### 学习demo整理
-[File 方法](https://github.com/guimeisang/python-map/demos/File)   
-
+[File 方法](https://github.com/guimeisang/python-map/tree/master/demos/File)    
+[继承](https://github.com/guimeisang/python-map/tree/master/demos/class)   
+[Thread](https://github.com/guimeisang/python-map/tree/master/demos/Thread)   
+[socket](https://github.com/guimeisang/python-map/tree/master/demos/socket)   
+[100example](https://github.com/guimeisang/python-map/tree/master/demos/100example)   
+ 
 
 ### 收集解决的问题
 
